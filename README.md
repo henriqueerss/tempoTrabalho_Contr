@@ -1,2 +1,2 @@
-# tempoTrabalho_Contr
-Programa verificando o tempo de contribuição de Empresa
+# Programa verificando o tempo de contribuição de trabalho na Empresa
+Descrição: Python
