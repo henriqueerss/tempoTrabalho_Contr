@@ -1,2 +1,2 @@
-# Programa verificando o tempo de contribuição de trabalho na Empresa
-Descrição: Python
+# Programa verificando o tempo de trabalho na sua empresa.
+Descrição: Microempreendedor, Estagiário, Empreendedor, etc.
